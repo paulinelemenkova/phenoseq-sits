@@ -84,3 +84,7 @@ pip install -r requirements.txt
 ## Citation
 
 Manuscript under review. Citation details will be added upon publication.
+
+## License
+
+MIT, see LICENSE.
