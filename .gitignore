@@ -1,0 +1,7 @@
+GEE_data/
+data/
+*.tif
+*.npz
+*.csv
+__pycache__/
+.DS_Store
